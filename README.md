@@ -8,5 +8,5 @@
 - [ ] BT4:
 
 - Đồ án: Lập trình logic với Prolog
-- [ ] Slide
+- [ ] Report
 - [ ] Code
