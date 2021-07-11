@@ -2,11 +2,11 @@
 # Nguyên lý và phương pháp lập trình
 
 - Thực hành (50%)
-- [ ] BT1: 
-- [ ] BT2:
-- [ ] BT3:
-- [ ] BT4:
+- [x] BT1: Sắp bài
+- [x] BT2: Uống nước
+- [x] BT3: Sắp xếp phi công
+- [x] BT4: Shift Reduce Parsing
 
-- Seminar thuyết trình (50%): Lập trình logic với Prolog
-- [ ] Report
-- [ ] Slide
+- Đồ án cuối kỳ (50%): Đề tài "Lập trình Logic với Prolog"
+- [x] Report
+- [x] Slide
