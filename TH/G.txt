@@ -1,0 +1,11 @@
+P->E
+E->E+T
+E->E-T
+E->T
+T->T*S
+T->T/S
+T->S
+S->F^S
+S->F
+F->(E)
+F->i
